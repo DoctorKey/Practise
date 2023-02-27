@@ -1,0 +1,10 @@
+*.tar
+*.npy
+*.txt
+*.pth
+*.pkl
+data_list.npy
+__pycache__
+results
+result
+output
